@@ -8,7 +8,7 @@ const initialize = () => {
   } else {
     try {
       const configuration = new Configuration({
-        apiKey: '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',
+        apiKey: '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',
       });
 
       const instance = new OpenAIApi(configuration);
